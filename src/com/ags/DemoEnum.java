@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class DemoEnum {
 	
 	public enum days{
-		SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
+		SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,june,july
 	}
 	public static void main(String[]args) {
 	
