@@ -24,6 +24,10 @@ public class DemoEnum {
 		for
 		(days days:values) {
 			System.out.println(days);
+			System.out.println(days);
+			
+			
+			
 		}
 		
 		
